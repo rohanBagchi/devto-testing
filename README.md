@@ -3,6 +3,10 @@
 Created for showing a demo of testing the same React component using Enzyme and React Testing Library.
 Where with Enzyme, it is more around the implementation details, with React Testing Library it is around the behavior.
 
+## Link to dev.to blog post
+
+<https://dev.to/rohanbagchi/testing-react-components-fkc>
+
 ## How to run?
 
 1. `npm i`
@@ -133,4 +137,4 @@ test("App", async () => {
 ```
 
 Here, we are only testing for the behavior. So, as long as the behavior stays same, an update in how we render the joke for this case makes no difference.
-For larger projects with lot more complexity, passing tests accross refactors will give developers confidence and help them move fast.
+For larger projects with lot more complexity, passing tests across refactors will give developers confidence and help them move fast.
