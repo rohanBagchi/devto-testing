@@ -3,9 +3,14 @@
 Created for showing a demo of testing the same React component using Enzyme and React Testing Library.
 Where with Enzyme, it is more around the implementation details, with React Testing Library it is around the behavior.
 
+## Demo and fiddle
+
+1. [Live demo](https://devto-testing.vercel.app/)
+2. [Open repo in codesandbox](https://githubbox.com/rohanBagchi/devto-testing)
+
 ## Link to dev.to blog post
 
-<https://dev.to/rohanbagchi/testing-react-components-fkc>
+<https://rohanbagchi.vercel.app/testing-react-components/>
 
 ## How to run?
 

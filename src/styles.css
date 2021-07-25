@@ -1,4 +1,12 @@
 .App {
   font-family: sans-serif;
-  text-align: center;
+  font-size: 14px;
+}
+
+button {
+  padding: 10px;
+  background-color: hsla(210, 100%, 26%, 1);
+  border: 0;
+  color: #fff;
+  font-weight: 500;
 }
